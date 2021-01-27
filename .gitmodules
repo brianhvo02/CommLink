@@ -1,0 +1,4 @@
+[submodule "CommLink-MacOS"]
+	url = https://github.com/brianhvo02/CommLink-MacOS.git
+	path = CommLink-MacOS
+	branch = main
